@@ -1,2 +1,2 @@
 # learningGit
-i am trying learn git here
+i am trying to learn git here
